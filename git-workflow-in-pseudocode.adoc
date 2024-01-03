@@ -1,4 +1,4 @@
-Contribute to projects using git-based hosting service:
+Contribute to projects which releases the updates on 25th of each month using git-based hosting service:
     Prepare to work using a git-based hosting service.
     For each project you want to work on:
         work on a project.
